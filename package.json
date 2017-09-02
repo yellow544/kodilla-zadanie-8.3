@@ -1,0 +1,26 @@
+{
+  "name": "zadanie-8.3",
+  "version": "1.0.0",
+  "description": "Kodilla zadanie 8.3",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yellow544/kodilla-zadanie-8.3.git"
+  },
+  "author": "yellow544",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yellow544/kodilla-zadanie-8.3/issues"
+  },
+  "homepage": "https://github.com/yellow544/kodilla-zadanie-8.3#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-imagemin": "^2.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0"
+  }
+}
