@@ -18,8 +18,8 @@ module.exports = function(grunt) {
   			files: [{
   				expand: true,
   				cwd: 'images/',
-  				src: ['**/*.{png,JPG,gif}'],
-  				dest: 'images/build/'
+  				src: ['**/*.{png,jpg,gif}'],
+  				dest: 'imagemin'
   			}]
   		}
   	},
